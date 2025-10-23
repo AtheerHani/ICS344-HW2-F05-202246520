@@ -1,0 +1,10 @@
+{
+  "atheer": {
+    "pwd_salt_hex": "61ab39c1e9220fa9f9d7620d2c8a5471",
+    "pwd_hash_hex": "53b50d564d85e8fe7bb5fce23656169780db374e27c88eb1689837306e106e13",
+    "pwd_iterations": 200000,
+    "kdf_salt_hex": "4e7f466bcf230613682661657407189f",
+    "kdf_iterations": 200000,
+    "enc_counter": 1
+  }
+}
